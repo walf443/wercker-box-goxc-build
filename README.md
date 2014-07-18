@@ -1,4 +1,4 @@
-wercker-box-peco-build
+wercker-box-goxc-build
 ======================
 
-wercker box used to build peco binaries
+wercker box used to build binaries

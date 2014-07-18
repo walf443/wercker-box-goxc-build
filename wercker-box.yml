@@ -1,13 +1,13 @@
-name: peco-build
+name: goxc-build
 version: 0.0.1
 inherits: wercker/ubuntu12.04-webessentials@1.0.0
 type : main
 platform : ubuntu@12.04
-description : box used to build peco (https://github.com/peco/peco)
+description : box used to build
 keywords:
   - golang
   - go
-  - peco
+  - goxc
   - cross-compile
 packages:
   - golang@1.3
